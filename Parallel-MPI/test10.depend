@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621605574 source:c:\users\parap\onedrive\documents\tugas smt 5\asd\test10\main.cpp
+	<stdlib.h>
+	<mpi.h>
+	<cstring>
+	"common/common.h"
+
+1621604485 c:\users\parap\onedrive\documents\tugas smt 5\asd\test10\common\common.h
+	<iostream>
+	<iomanip>
+	<cstring>
+	<assert.h>
+	<time.h>
+
